@@ -1,10 +1,8 @@
 package matrix;
 
-import static java.lang.Math.*;
-
 public class MatrixModel {
 
-    private int size = 5;
+    private int size = 7;
     private int[][] array = new int[size][size];
 
 
