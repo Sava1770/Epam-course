@@ -1,6 +1,7 @@
-package perfectnumber;
+package task1.pyramid;
 
-public class PerfectView {
+public class PyramidView {
+
 
     public static final String INPUT_NUMBER = "Input an integer number = ";
     public static final String WRONG_INPUT_NUMBER = "Wrong input!Please repeat.";
@@ -10,8 +11,5 @@ public class PerfectView {
         System.out.println(message);
     }
 
-    public void printMessageAndResult(String message,int result){
-        System.out.println(message + " " +result);
-    }
 
 }

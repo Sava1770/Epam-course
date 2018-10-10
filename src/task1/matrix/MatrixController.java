@@ -1,6 +1,6 @@
-package matrix;
+package task1.matrix;
 
-import static matrix.MatrixView.INPUT_NUMBER;
+import static task1.matrix.MatrixView.INPUT_NUMBER;
 
 public class MatrixController {
 

@@ -1,6 +1,6 @@
-package radix;
+package task1.radix;
 
-import static radix.RadixView.*;
+import static task1.radix.RadixView.*;
 
 public class RadixController {
     private RadixModel model;

@@ -1,4 +1,4 @@
-package radix;
+package task1.radix;
 
 public class Main {
 

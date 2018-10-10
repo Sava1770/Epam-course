@@ -1,4 +1,4 @@
-package perfectnumber;
+package task1.perfectnumber;
 
 public class PerfectModel {
 

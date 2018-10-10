@@ -1,4 +1,4 @@
-package matrix;
+package task1.matrix;
 
 public class MatrixModel {
 

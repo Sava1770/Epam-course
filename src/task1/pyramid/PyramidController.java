@@ -1,4 +1,4 @@
-package pyramid;
+package task1.pyramid;
 
 
 public class PyramidController {

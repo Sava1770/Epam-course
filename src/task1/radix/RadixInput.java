@@ -1,8 +1,8 @@
-package radix;
+package task1.radix;
 
 import java.util.Scanner;
 
-import static radix.RadixView.WRONG_INPUT_NUMBER;
+import static task1.radix.RadixView.WRONG_INPUT_NUMBER;
 
 public class RadixInput {
 
