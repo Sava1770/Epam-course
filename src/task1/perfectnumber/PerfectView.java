@@ -14,4 +14,14 @@ public class PerfectView {
         System.out.println(message + " " +result);
     }
 
+    public void outputArray(PerfectModel model){
+        int[] perfectNumbers = model.findPerfectNumbers();
+
+        for(int i = 0; i < perfectNumbers.length; i++){
+            if (perfectNumbers[i] > 0) {
+                printMessageAndResult(RIGHT_RESULT, perfectNumbers[i]);
+            }
+        }
+    }
+
 }

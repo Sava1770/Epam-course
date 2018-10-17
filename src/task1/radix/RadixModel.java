@@ -3,10 +3,7 @@ package task1.radix;
 public class RadixModel {
 
     private int number;
-    private String result = "";
-    private int[] array = new int[32];
     private int radixSystem;
-    private int i = 0;
 
     public void setNumber(int number) {
         this.number = number;
@@ -25,6 +22,9 @@ public class RadixModel {
     }
 
     public String radixChange(){
+        String result = "";
+        int i = 0;
+        int[] array = new int[32];
 
         while(number > 0){
 
@@ -33,13 +33,13 @@ public class RadixModel {
             i++;
         }
 
-        resultString();
+        result =  resultString(i, result, array);
 
         return result;
 
     }
 
-    private void resultString() {
+    private String resultString(int i, String result, int[] array) {
         for (int k = i - 1; k >= 0; k--) {
             if (array[k] < 10)
                 result += array[k];
@@ -65,5 +65,6 @@ public class RadixModel {
                         break;
                 }
         }
+        return result;
     }
 }

@@ -13,14 +13,7 @@ public class PerfectController {
 
     public void find(){
 
-
         model.setNumber(PerfectInput.inputValue(view));
-
-        int[] perfectNumbers = model.findPerfectNumbers();
-
-        for(int i = 0; i < perfectNumbers.length; i++) {
-            if (perfectNumbers[i] > 0)
-                view.printMessageAndResult(view.RIGHT_RESULT, perfectNumbers[i]);
-        }
+        view.outputArray(model);
     }
 }

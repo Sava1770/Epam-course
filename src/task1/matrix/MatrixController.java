@@ -6,7 +6,6 @@ public class MatrixController {
 
     private MatrixModel model;
     private MatrixView view;
-    private MatrixInput input;
 
     public MatrixController() {
     }
@@ -19,9 +18,9 @@ public class MatrixController {
     public void turn(){
         model.setSize(MatrixInput.inputValue(view, INPUT_NUMBER));
         model.matrixCreate();
-        model.matrixOutput();
+        view.matrixOutput(model.getSize(),model.getArray());
         model.matrixTurn();
-        model.matrixOutput();
+        view.matrixOutput(model.getSize(),model.getArray());
 
     }
 }

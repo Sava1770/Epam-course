@@ -3,10 +3,6 @@ package task1.perfectnumber;
 public class PerfectModel {
 
     private int maxNumber;
-    private int currentNumber = 1;
-    private int[] perfectNumbers = new int[10];
-    private int sum = 0;
-    private int element = 0;
 
     public void setNumber(int maxNumber) {
         this.maxNumber = maxNumber;
@@ -16,8 +12,8 @@ public class PerfectModel {
         return maxNumber;
     }
 
-    public void findDividerSum() {
-
+    public int findDividerSum(int currentNumber, int[] perfectNumbers, int element) {
+        int sum = 0;
         int halfNumber = currentNumber / 2;
 
         for (int i = 1; i <= halfNumber; i++) {
@@ -25,18 +21,21 @@ public class PerfectModel {
                 sum += i;
             }
         }
-
         if (sum == currentNumber) {
             perfectNumbers[element] = currentNumber;
             element++;
         }
+        return element;
     }
 
     public int[] findPerfectNumbers(){
+        int element = 0;
+        int currentNumber ;
+        int[] perfectNumbers = new int[10];
 
         for( currentNumber = 1; currentNumber <= maxNumber; currentNumber++) {
-            sum = 0;
-            findDividerSum();
+
+            element = findDividerSum(currentNumber, perfectNumbers, element);
         }
 
         return perfectNumbers;

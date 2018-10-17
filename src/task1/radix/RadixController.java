@@ -5,7 +5,6 @@ import static task1.radix.RadixView.*;
 public class RadixController {
     private RadixModel model;
     private RadixView view;
-    private String result;
 
     public RadixController() {
     }
@@ -16,6 +15,8 @@ public class RadixController {
     }
 
     public void change() {
+        String result;
+
         model.setNumber(RadixInput.inputValue(view, INPUT_NUMBER));
         model.setRadixSystem(RadixInput.inputValue(view, INPUT_RADIX));
         result = model.radixChange();
