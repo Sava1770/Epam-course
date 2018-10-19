@@ -4,15 +4,14 @@ import java.util.Arrays;
 
 public class BookController {
 
-    BookModel model = new BookModel();
-    BookView view = new BookView();
-    BookCompare comp = new BookCompare();
+    private BookModel model = new BookModel();
+    private BookView view = new BookView();
+    private BookCompare comp = new BookCompare();
 
 
     public void getInformation(){
 
-        switch(BookInput.inputValue(view, view.OUTPUT_SELECT))
-        {
+        switch(BookInput.inputValue(view, view.OUTPUT_SELECT)) {
             case 1:
                 model.bookListByAuthor(BookInput.inputStringValue(view,view.INPUT_AUTHOR));
                 break;

@@ -6,7 +6,7 @@ import static task2.book.BookView.*;
 
 public class BookInput {
 
-    private static Scanner scan = new Scanner(System.in);
+    private static final Scanner scan = new Scanner(System.in);
     private static Scanner sc = new Scanner(System.in);
 
     public static int inputValue(BookView view, String selectAction) {

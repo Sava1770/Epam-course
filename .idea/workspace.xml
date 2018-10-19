@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbdf7b17-bbd8-42c6-9dbb-f9562d63e275" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/task2/draw/AreaCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/draw/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/draw/ColorCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/draw/Drawable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/draw/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/draw/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/draw/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/draw/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/draw/controller/ShapeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/draw/model/ShapeModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/draw/view/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/draw/view/ShapeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/ChildRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/ConstructorToys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/RobotToys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/SportToys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/Toys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/matrix/MatrixController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/matrix/MatrixController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/matrix/MatrixModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/matrix/MatrixModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/matrix/MatrixView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/matrix/MatrixView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/perfectnumber/PerfectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/perfectnumber/PerfectController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/perfectnumber/PerfectModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/perfectnumber/PerfectModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/perfectnumber/PerfectView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/perfectnumber/PerfectView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/pyramid/PyramidModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/pyramid/PyramidModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/radix/RadixController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/radix/RadixController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/radix/RadixModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/radix/RadixModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1/radix/RadixView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/radix/RadixView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2/book/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/book/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/book/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/book/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/book/BookInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/book/BookInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task3/task1/ConstructorToys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task3/task1/ConstructorToys.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,22 +25,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="148" />
+          <entry key="java" value="151" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="148" />
+          <entry key="JAVA" value="151" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6752" />
+          <entry key="java" value="6821" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6752" />
+          <entry key="JAVA" value="6821" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -73,47 +48,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task2/book/BookInput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task2/book/BookModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-221">
+              <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/task3/task1/ChildRoom.java">
+        <entry file="file://$PROJECT_DIR$/src/task2/book/BookController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/task3/task1/ConstructorToys.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/task3/task1/RobotToys.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/task3/task1/SportToys.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/task3/task1/Toys.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="221">
+              <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -156,7 +116,6 @@
         <option value="$PROJECT_DIR$/src/task2/book/Main.java" />
         <option value="$PROJECT_DIR$/src/task1/pyramid/PyramidModel.java" />
         <option value="$PROJECT_DIR$/src/task2/draw/Drawable.java" />
-        <option value="$PROJECT_DIR$/src/task2/book/BookInput.java" />
         <option value="$PROJECT_DIR$/src/task2/draw/AreaCompare.java" />
         <option value="$PROJECT_DIR$/src/task2/draw/Main.java" />
         <option value="$PROJECT_DIR$/src/task2/draw/view/Input.java" />
@@ -170,6 +129,12 @@
         <option value="$PROJECT_DIR$/src/task2/draw/Triangle.java" />
         <option value="$PROJECT_DIR$/src/task2/draw/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/task2/draw/Circle.java" />
+        <option value="$PROJECT_DIR$/src/task3/task1/Toys.java" />
+        <option value="$PROJECT_DIR$/src/task3/task1/SportToys.java" />
+        <option value="$PROJECT_DIR$/src/task3/task1/RobotToys.java" />
+        <option value="$PROJECT_DIR$/src/task3/task1/ConstructorToys.java" />
+        <option value="$PROJECT_DIR$/src/task2/book/BookInput.java" />
+        <option value="$PROJECT_DIR$/src/task2/book/BookController.java" />
       </list>
     </option>
   </component>
@@ -209,14 +174,8 @@
               <item name="Epam" type="b2602c69:ProjectViewProjectNode" />
               <item name="Epam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Epam" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Epam" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task3" type="462c0819:PsiDirectoryNode" />
-              <item name="task1" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -256,7 +215,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13355705" />
@@ -279,27 +238,6 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13355705" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29798657" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -476,16 +414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task2/book/BookInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/task2/book/BookView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -507,24 +435,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task2/book/BookModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/task2/draw/AreaCompare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task2/book/BookController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -636,17 +550,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3/task1/ConstructorToys.java">
+    <entry file="file://$PROJECT_DIR$/src/task3/task1/Toys.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/task3/task1/RobotToys.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -657,10 +571,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3/task1/Toys.java">
+    <entry file="file://$PROJECT_DIR$/src/task3/task1/ConstructorToys.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -668,6 +582,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/book/BookInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/book/BookModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/book/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
         </state>
       </provider>
     </entry>
