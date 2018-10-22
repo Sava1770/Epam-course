@@ -10,10 +10,10 @@ public class ToysModel {
 
     private ChildRoom<Toys> room = new ChildRoom<>();
     private ArrayList<Toys> list = room.getList();
-    private ColorCompare colorCompare = new ColorCompare();
-    private IdCompare idCompare = new IdCompare();
-    private WeightCompare weightCompare = new WeightCompare();
-    private CostCompare costCompare = new CostCompare();
+    private ColorComparator colorCompare = new ColorComparator();
+    private IdComparator idCompare = new IdComparator();
+    private WeightComparator weightCompare = new WeightComparator();
+    private CostComparator costCompare = new CostComparator();
 
     public ArrayList<Toys> getList() {
         return list;
@@ -37,12 +37,12 @@ public class ToysModel {
         return list;
     }
 
-    public ArrayList weightComp(){
+    public ArrayList<Toys> weightComp(){
         list.sort(weightCompare);
         return list;
     }
 
-    public ArrayList costComp(){
+    public ArrayList<Toys> costComp(){
         list.sort(costCompare);
         return list;
     }

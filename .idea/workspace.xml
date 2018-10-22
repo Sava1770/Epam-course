@@ -2,31 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbdf7b17-bbd8-42c6-9dbb-f9562d63e275" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/controller/ToysController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/entity/ChildRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/model/ToysModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/model/comparators/ColorCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/model/comparators/CostCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/model/comparators/IdCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/model/comparators/WeightCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/view/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/view/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task1/view/ToysView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/task2/entity/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/task1/model/comparators/CostComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/task2/model/ShopModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Epam/task2/book/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Epam/task2/book/BookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Epam/task2/book/BookInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Epam/task2/book/BookInput.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Epam/task3/ChildRoom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Epam/task3/ConstructorToys.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Epam/task3/RobotToys.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Epam/task3/SportToys.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Epam/task3/Toys.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task3/task1/ChildRoom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task3/task1/ConstructorToys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task3/task1/entity/ConstructorToys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task3/task1/RobotToys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task3/task1/entity/RobotToys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task3/task1/SportToys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task3/task1/entity/SportToys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task3/task1/Toys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task3/task1/entity/Toys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task3/task1/controller/ToysController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task3/task1/controller/ToysController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task3/task1/model/ToysModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task3/task1/model/ToysModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task3/task1/model/comparators/ColorCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task3/task1/model/comparators/ColorComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task3/task1/model/comparators/CostCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task3/task1/model/comparators/IdCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task3/task1/model/comparators/IdComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task3/task1/model/comparators/WeightCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task3/task1/model/comparators/WeightComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task3/task2/entity/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task3/task2/entity/Shop.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,22 +33,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="215" />
+          <entry key="java" value="223" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="215" />
+          <entry key="JAVA" value="223" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10675" />
+          <entry key="dummy" value="32" />
+          <entry key="java" value="10877" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10675" />
+          <entry key="JAVA" value="10877" />
+          <entry key="PLAIN_TEXT" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -71,16 +58,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/task3/task2/entity/Shop.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task3/task1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="153">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task3/task1/controller/ToysController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="781">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
               <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/task3/task1/model/ToysModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="39" column="40" lean-forward="true" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task3/task1/model/comparators/ColorComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task3/task1/model/comparators/CostComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1313">
+              <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task3/task1/model/comparators/IdComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,16 +201,16 @@
         <option value="$PROJECT_DIR$/src/task3/task1/entity/RobotToys.java" />
         <option value="$PROJECT_DIR$/src/task3/task1/model/comparators/WeightCompare.java" />
         <option value="$PROJECT_DIR$/src/task2/draw/view/ShapeView.java" />
-        <option value="$PROJECT_DIR$/src/task3/task1/model/comparators/CostCompare.java" />
         <option value="$PROJECT_DIR$/src/task3/task1/view/Constants.java" />
-        <option value="$PROJECT_DIR$/src/task3/task1/model/ToysModel.java" />
         <option value="$PROJECT_DIR$/src/task3/task1/Main.java" />
         <option value="$PROJECT_DIR$/src/task3/task1/view/ToysView.java" />
         <option value="$PROJECT_DIR$/src/task3/task1/entity/ChildRoom.java" />
         <option value="$PROJECT_DIR$/src/task3/task1/entity/Toys.java" />
         <option value="$PROJECT_DIR$/src/task3/task1/view/Input.java" />
-        <option value="$PROJECT_DIR$/src/task3/task1/controller/ToysController.java" />
         <option value="$PROJECT_DIR$/src/task3/task2/entity/Shop.java" />
+        <option value="$PROJECT_DIR$/src/task3/task1/controller/ToysController.java" />
+        <option value="$PROJECT_DIR$/src/task3/task1/model/comparators/CostCompare.java" />
+        <option value="$PROJECT_DIR$/src/task3/task1/model/ToysModel.java" />
       </list>
     </option>
   </component>
@@ -201,7 +253,23 @@
               <item name="Epam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task3" type="462c0819:PsiDirectoryNode" />
-              <item name="task2" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Epam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Epam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Epam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Epam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -241,7 +309,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13557047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -292,20 +359,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/task1/matrix/MatrixView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task1/matrix/MatrixModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/task1/matrix/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -537,42 +590,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3/task1/model/comparators/WeightCompare.java">
+    <entry file="file://$PROJECT_DIR$/src/task3/task1/model/comparators/WeightComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3/task1/model/comparators/CostCompare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3/task1/model/comparators/ColorCompare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="64" lean-forward="true" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3/task1/model/comparators/IdCompare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -617,18 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3/task1/model/ToysModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/task3/task1/view/ToysView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -641,16 +650,6 @@
             <element signature="e#421#422#0" expanded="true" />
             <element signature="e#739#740#0" expanded="true" />
             <element signature="e#797#798#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3/task1/controller/ToysController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -677,6 +676,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/task3/task2/model/ShopModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task3/task2/entity/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/task3/task1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -684,15 +705,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3/task2/entity/Shop.java">
+    <entry file="file://$PROJECT_DIR$/src/task3/task1/controller/ToysController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="781">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
           <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1313">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task3/task1/model/comparators/ColorComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task3/task1/model/comparators/CostComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task3/task1/model/comparators/IdComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task3/task1/model/ToysModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="39" column="40" lean-forward="true" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

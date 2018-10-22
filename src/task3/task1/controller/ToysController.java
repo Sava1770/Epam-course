@@ -3,8 +3,6 @@ package task3.task1.controller;
 import task3.task1.entity.Toys;
 import task3.task1.view.Input;
 import task3.task1.model.ToysModel;
-import task3.task1.model.comparators.*;
-import task3.task1.view.Constants;
 import task3.task1.view.ToysView;
 
 import java.util.ArrayList;
@@ -16,10 +14,6 @@ public class ToysController {
 
     private ToysModel model = new ToysModel();
     private ToysView view = new ToysView(model);
-    private ColorCompare colorCompare = new ColorCompare();
-    private IdCompare idCompare = new IdCompare();
-    private WeightCompare weightCompare = new WeightCompare();
-    private Constants con = new Constants();
     private ArrayList<Toys> list = model.getList();
 
 
@@ -54,18 +48,18 @@ public class ToysController {
         }
     }
 
-    public void chose(){
+    private void chose(){
 
      int max = Input.inputValue(view, INPUT_FIRST_PARAMETER);
-        String str = Input.inputLine(view, INPUT_SECOND_PARAMETER);
+     String str = Input.inputLine(view, INPUT_SECOND_PARAMETER);
 
-        for(int i = 0; i < list.size(); i++){
+     for(int i = 0; i < list.size(); i++){
             if(list.get(i).getColor().equals(str)){
                 if(list.get(i).getCost() <= max) {
                     view.printChosen(list, i);
                 }
             }
-        }
+     }
 
 
 

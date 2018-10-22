@@ -24,12 +24,6 @@ public class Input {
     public static String inputLine(ToysView view, String selectAction) {
         view.printMessage(selectAction);
 
-//        while (!scan.hasNextLine()) {
-//            view.printMessage(WRONG_INPUT_NUMBER + selectAction);
-//
-//            scan.next();
-//        }
-
         return sc.nextLine();
     }
 }

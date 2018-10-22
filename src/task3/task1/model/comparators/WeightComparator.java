@@ -4,10 +4,10 @@ import task3.task1.entity.Toys;
 
 import java.util.Comparator;
 
-public class IdCompare implements Comparator<Toys> {
+public class WeightComparator implements Comparator<Toys> {
     @Override
     public int compare(Toys s1, Toys s2) {
-        if(s1.getId() > s2.getId())
+        if(s1.getWeight() > s2.getWeight())
             return 1;
         else
             return -1;

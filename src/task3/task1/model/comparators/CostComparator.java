@@ -4,12 +4,15 @@ import task3.task1.entity.Toys;
 
 import java.util.Comparator;
 
-public class CostCompare implements Comparator<Toys> {
+public class CostComparator<Integer> implements Comparator<Toys> {
     @Override
     public int compare(Toys s1, Toys s2) {
             if(s1.getCost() > s2.getCost())
                 return 1;
             else
                 return -1;
+
     }
+
+
 }
