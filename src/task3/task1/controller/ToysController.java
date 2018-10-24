@@ -10,12 +10,15 @@ import java.util.ArrayList;
 import static task3.task1.view.Constants.*;
 
 public class ToysController {
+   private ToysModel model ;
+   private ToysView view;
+   private ArrayList<Toys> list;
 
-
-    private ToysModel model = new ToysModel();
-    private ToysView view = new ToysView(model);
-    private ArrayList<Toys> list = model.getList();
-
+    public ToysController(ToysModel model, ToysView view, ArrayList<Toys> list){
+        this.model = model;
+        this.view = view;
+        this.list = list;
+    }
 
 
     public void run() {

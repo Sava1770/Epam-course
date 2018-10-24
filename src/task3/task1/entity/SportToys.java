@@ -1,7 +1,5 @@
 package task3.task1.entity;
 
-import task3.task1.entity.Toys;
-
 public class SportToys extends Toys {
 
     private String sportType;
