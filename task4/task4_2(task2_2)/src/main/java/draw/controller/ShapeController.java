@@ -6,20 +6,33 @@ import draw.model.ShapeRepository;
 import draw.model.comparators.*;
 import draw.entity.*;
 import draw.view.*;
-
 import static draw.view.ShapeView.*;
 
+/**
+ * @author Savostin Roman
+ * @see ShapeModel
+ * @see ShapeView
+ */
 public class ShapeController {
 
     private ShapeModel model;
     private ShapeView view;
 
+    /**
+     * The constructor that allows the programmer to create an object with parameters
+     * @param model - parameter for working with the class ShapeModel.
+     * @param view - parameter for working with the class ShapeView.
+     */
     public ShapeController(ShapeModel model, ShapeView view){
         this.model = model;
         this.view = view;
     }
 
-    public void getInformation(){
+    /**
+     * run our program
+     */
+
+    public void run(){
 
         int i = 1;
 
