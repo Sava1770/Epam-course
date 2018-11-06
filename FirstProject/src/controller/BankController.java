@@ -1,8 +1,11 @@
 package controller;
 
+import entity.Bank;
 import model.BankModel;
 import view.BankView;
 import view.InputUtility;
+
+import java.util.List;
 
 import static view.Constants.*;
 
@@ -21,22 +24,24 @@ public class BankController {
         int inputSum;
         int inputTime;
         double resultSum;
+        List<Bank> banks = model.getBanks();
+
+        view.printMessage(FIRST_OUTPUT);                                        //show a different percents
 
         inputSum = InputUtility.inputValue(view,SUM_INPUT);                     //input sum
         inputTime = InputUtility.inputValue(view,TIME_INPUT);                   //input time
 
-        for(int i = 0; i < model.getBanks().size(); i++){
+        for(int i = 0; i < banks.size(); i++){
             resultSum = model.sumCalculate(inputTime, inputSum, i);             //calculate result sum
-            view.print(resultSum, model.getBanks().get(i).getName(), model.getBanks().get(i).isOpportunityToGet(), model.getBanks().get(i).isApplication());
+            view.print(resultSum, banks.get(i).getName(), banks.get(i).isOpportunityToGet(), banks.get(i).isApplication());
         }
     }
 
 
     private int currencyChoice(){
-       int choice;
-       int num = 1;
+       int choice = 0;
 
-            while(num > 0){                                                                     //for choice currency
+            while(choice < 1 || choice > 3){                                                                     //for choice currency
 
                 switch (choice = InputUtility.inputValue(view, OUTPUT_SELECT_CURRENCY)){
                     case 1:

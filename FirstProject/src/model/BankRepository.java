@@ -11,8 +11,8 @@ public class BankRepository {
 
     public BankRepository(){
         banks.add(new Bank("Privat",12, true, 1, true));
-        banks.add(new Bank("Monobank",10, false, 2, true));
-        banks.add(new Bank("Oschad",14, false, 0, false));
+        banks.add(new Bank("Monobank",11, true, 2, true));
+        banks.add(new Bank("Oschad",15, false, 0, false));
         banks.add(new Bank("Raiffaisen",13, true, 1, false));
     }
 

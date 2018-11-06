@@ -20,45 +20,34 @@ public class Bank {
     }
 
     public boolean isApplication() { return application; }
-
     public void setApplication(boolean application) { this.application = application; }
-
     public double getPercentPerYear() {
         return percentPerYear;
     }
-
     public void setPercentPerYear(int percentPerYear) {
         this.percentPerYear = percentPerYear;
     }
-
     public boolean isOpportunityToGet() {
         return opportunityToGet;
     }
-
     public void setOpportunityToGet(boolean opportunityToGet) {
         this.opportunityToGet = opportunityToGet;
     }
-
     public boolean isOpportunityToSet() {
         return opportunityToSet;
     }
-
     public void setOpportunityToSet(boolean opportunityToSet) {
         this.opportunityToSet = opportunityToSet;
     }
-
     public double getPercentYearIncrease() {
         return percentYearIncrease;
     }
-
     public void setPercentYearIncrease(int percentYearIncrease) {
         this.percentYearIncrease = percentYearIncrease;
     }
-
     public void setName(String name) {
         this.name = name;
     }
-
     public String getName() {
         return name;
     }

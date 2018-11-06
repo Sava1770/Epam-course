@@ -6,9 +6,11 @@ import java.util.List;
 
 public class BankModel {
 
-  //  private Bank bank;
-      private BankRepository repository;
+    private BankRepository repository;
 
+    public BankModel(BankRepository repository){
+        this.repository = repository;
+    }
 
     public double sumCalculate(int time, int sum, int i){  //calculate sum
 
@@ -32,17 +34,15 @@ public class BankModel {
     public boolean appExistance(int i){                          //check application existence
         return repository.getBanks().get(i).isApplication();
     }
-
     public boolean opportunityToGet(int i){                      // check opportunity to get money in every moment
         return repository.getBanks().get(i).isOpportunityToGet();
     }
-
     public boolean opportunityToSet(int i){                      //check opportunity to add money in every moment
         return repository.getBanks().get(i).isOpportunityToSet();
     }
 
-    public void choiceCurrency(String currency){
 
+    public void choiceCurrency(int currency){
 
     }
 
