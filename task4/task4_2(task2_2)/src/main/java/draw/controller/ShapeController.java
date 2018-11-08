@@ -19,7 +19,7 @@ public class ShapeController {
     private ShapeView view;
 
     /**
-     * The constructor that allows the programmer to create an object with parameters
+     * The constructor that allows the programmer to create  object with parameters
      * @param model - parameter for working with the class ShapeModel.
      * @param view - parameter for working with the class ShapeView.
      */
