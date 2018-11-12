@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ea07b51-94d3-4c54-82ec-c693c4c33fdd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../FirstProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FirstProject/out/production/FirstProject/controller/BankController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstProject/out/production/FirstProject/controller/BankController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FirstProject/out/production/FirstProject/model/BankModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstProject/out/production/FirstProject/model/BankModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FirstProject/out/production/FirstProject/view/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstProject/out/production/FirstProject/view/Constants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FirstProject/src/controller/BankController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstProject/src/controller/BankController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FirstProject/src/entity/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstProject/src/entity/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FirstProject/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstProject/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FirstProject/src/model/BankModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstProject/src/model/BankModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FirstProject/src/view/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstProject/src/view/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../first_project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first_project/src/test/java/BankModelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../first_project/src/test/java/BankModelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first_project/target/test-classes/BankModelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../first_project/target/test-classes/BankModelTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/draw/controller/ShapeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/draw/controller/ShapeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../task4_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -97,22 +91,23 @@
     <session id="-458959172">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="11" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="11" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -129,7 +124,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/draw/Main.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -142,7 +137,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/draw/controller/ShapeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-476">
+            <state relative-caret-position="272">
               <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -151,11 +146,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/draw/view/Input.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="68">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestShapeModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -197,9 +204,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1088" />
+    <option name="x" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -207,6 +214,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,17 +284,29 @@
               <item name="draw" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="task4_2(task2_2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task4_2(task2_2)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task4_2(task2_2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task4_2(task2_2)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541601656459" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task4_2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541684503188" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../task3/task3_2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -358,7 +378,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16912752" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17315437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -454,27 +474,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestShapeModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/draw/model/ShapeRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/draw/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="7" selection-start-line="11" selection-start-column="2" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -485,9 +488,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/draw/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="7" selection-start-line="11" selection-start-column="2" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/draw/controller/ShapeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476">
+        <state relative-caret-position="272">
           <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -497,8 +507,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/draw/view/Input.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="68">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestShapeModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -41,7 +41,6 @@ public class BankController {
     public void run() {
         int inputSum;
         int inputTime;
-        int inputSort;
         double resultSum;
         List<Bank> banks = model.getBanks();
 
