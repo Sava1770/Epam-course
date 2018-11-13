@@ -16,21 +16,27 @@ public class JournalController {
         this.view = view;
     }
 
-    private String regExStudentName = "^[A-Z][a-z]+";
-    private String regExSecondName = "[A-Z][a-z]+";
-    private String regExBirthDate = "(\\d{2}\\.){2}\\d{4}";
-    private String regExPhone = "\\+\\d{3}\\(\\d{2}\\)(\\-\\d{2}){2}\\-\\d{3}";
-    private String regExAddress = "\\w+,\\d+";
+
 
     public void run(){
+        String regExStudentName = "[A-Z][a-z]+";
+        String regExSecondName = "[A-Z][a-z]+";
+        String regExBirthDate = "(\\d{2}\\.){2}\\d{4}";
+        String regExPhone = "\\+\\d{3}\\(\\d{2}\\)(\\-\\d{2}){2}\\-\\d{3}";
+        String regExAddress = "\\w+,\\d+";
+        String regExDoing = "yes|no";
         String studentName, secondName, birthDate, phone, address;
-        studentName = inputData(regExStudentName, Constants.INPUT_NAME);
-        secondName = inputData(regExSecondName, Constants.INPUT_SECOND_NAME);
-        birthDate = inputData(regExBirthDate, Constants.INPUT_BIRTH_DATE);
-        phone = inputData(regExPhone, Constants.INPUT_PHONE);
-        address = inputData(regExAddress, Constants.INPUT_ADDRESS);
 
-        model.addNote(studentName, secondName, birthDate, phone, address);
+         do{
+            studentName = inputData(regExStudentName, Constants.INPUT_NAME);
+            secondName = inputData(regExSecondName, Constants.INPUT_SECOND_NAME);
+            birthDate = inputData(regExBirthDate, Constants.INPUT_BIRTH_DATE);
+            phone = inputData(regExPhone, Constants.INPUT_PHONE);
+            address = inputData(regExAddress, Constants.INPUT_ADDRESS);
+
+            model.addNote(studentName, secondName, birthDate, phone, address);
+        }while(InputUtility.inputStringValue(view,Constants.INPUT_DOING,regExDoing).equals("yes"));
+
 
         view.printJournal(model.getNotes());
 
