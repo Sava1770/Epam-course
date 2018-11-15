@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36337a5b-1fa4-464d-9a76-a7ca9d13d558" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../first_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../first_project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task5/task5_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task5/task5_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task5/task5_1/src/main/java/controller/JournalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task5/task5_1/src/main/java/controller/JournalController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task5/task5_1/src/main/java/view/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task5/task5_1/src/main/java/view/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task5/task5_1/src/main/java/view/InputUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task5/task5_1/src/main/java/view/InputUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task5/task5_1/target/classes/controller/JournalController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task5/task5_1/target/classes/controller/JournalController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task5/task5_1/target/classes/view/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task5/task5_1/target/classes/view/Constants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task5/task5_1/target/classes/view/InputUtility.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task5/task5_1/target/classes/view/InputUtility.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task5/task5_1/task5_1.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="36337a5b-1fa4-464d-9a76-a7ca9d13d558" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +42,7 @@
     <session id="1813587345">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
@@ -174,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="720" />
     <option name="y" value="-25" />
     <option name="width" value="980" />
@@ -279,7 +269,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14295302" />
