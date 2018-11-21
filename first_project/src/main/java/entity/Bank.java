@@ -57,12 +57,12 @@ public class Bank {
     public String getName() {
         return name;
     }
-
     public void setSumForThisBank(double sumForThisBank) {
         this.sumForThisBank = sumForThisBank;
     }
-
     public double getSumForThisBank() {
         return sumForThisBank;
     }
+
+
 }
