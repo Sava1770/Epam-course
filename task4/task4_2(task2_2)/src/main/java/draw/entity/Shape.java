@@ -4,10 +4,6 @@ public abstract class Shape implements Drawable{
 
     private String shapeColor;
 
-    public Shape(){
-
-    }
-
     public Shape(String shapeColor){
         this.shapeColor = shapeColor;
     }
@@ -21,7 +17,6 @@ public abstract class Shape implements Drawable{
     @Override
     public String toString(){
 
-      //  System.out.println("color: " + shapeColor);
         return ", color: " + shapeColor;
     }
 

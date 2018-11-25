@@ -4,9 +4,7 @@ package draw.entity;
 public class Circle extends Shape {
     private double radius ;
 
-    public Circle(){
 
-    }
 
     public Circle(String shapeColor, double radius) {
         super(shapeColor);

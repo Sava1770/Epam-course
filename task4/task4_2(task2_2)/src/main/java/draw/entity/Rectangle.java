@@ -3,10 +3,6 @@ package draw.entity;
 public class Rectangle extends Shape {
     private double a,b;
 
-    public Rectangle(){
-
-    }
-
     public Rectangle(String shapeColor, double a, double b) {
         super(shapeColor);
         this.a = a;
@@ -31,7 +27,6 @@ public class Rectangle extends Shape {
 
         return Math.sqrt(p*(p-a)*(p-b)*(p-a)*(p-b));
     }
-
 
     public void draw(){
         String str = toString();
