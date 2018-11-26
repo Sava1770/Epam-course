@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fde5428c-53c1-4d8f-ab87-83f108bc5ae0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../first_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../first_project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task4/task4_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fde5428c-53c1-4d8f-ab87-83f108bc5ae0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +23,7 @@
     <session id="-927355531">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -56,13 +48,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3206" />
+          <entry key="java" value="3207" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3206" />
+          <entry key="JAVA" value="3207" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
@@ -74,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/book/controller/BookController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/book/model/BookModel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="99">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#432#433#0" expanded="true" />
@@ -101,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/book/model/BookRepositoryFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="73" column="47" selection-start-line="73" selection-start-column="47" selection-end-line="73" selection-end-column="47" />
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#143#144#0" expanded="true" />
@@ -115,8 +107,6 @@
                 <element signature="e#392#393#0" expanded="true" />
                 <element signature="e#1807#1808#0" expanded="true" />
                 <element signature="e#1839#1840#0" expanded="true" />
-                <element signature="e#1863#1864#0" expanded="true" />
-                <element signature="e#1880#1881#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -233,32 +223,6 @@
               <item name="task6_1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task6_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task6_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task6_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task6_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task6_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task6_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -270,7 +234,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543140699932" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543168150445" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../task4/task4_2" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -344,9 +308,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2590604" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2590604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -355,7 +318,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25503355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25503355" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -591,7 +554,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/book/controller/BookController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -601,7 +564,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/book/model/BookModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#432#433#0" expanded="true" />
@@ -614,8 +577,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/book/model/BookRepositoryFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="73" column="47" selection-start-line="73" selection-start-column="47" selection-end-line="73" selection-end-column="47" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#143#144#0" expanded="true" />
@@ -628,8 +591,6 @@
             <element signature="e#392#393#0" expanded="true" />
             <element signature="e#1807#1808#0" expanded="true" />
             <element signature="e#1839#1840#0" expanded="true" />
-            <element signature="e#1863#1864#0" expanded="true" />
-            <element signature="e#1880#1881#0" expanded="true" />
           </folding>
         </state>
       </provider>
