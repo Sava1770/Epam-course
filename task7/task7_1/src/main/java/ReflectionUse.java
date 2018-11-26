@@ -7,6 +7,8 @@ public class ReflectionUse {
         String str = "string before change";
         String string = "string after change";
 
+        System.out.println(str);
+
         Class<?> clazz = str.getClass();
         Field field = clazz.getDeclaredField("value");
 
