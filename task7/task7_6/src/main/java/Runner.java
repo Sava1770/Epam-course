@@ -31,7 +31,7 @@ public class Runner {
         System.out.println("Average age = " + averageAge);
     }
 
-    public List<Person> listCreate (){
+    private List<Person> listCreate (){
 
          List<Person> personList = new ArrayList<>();
 
