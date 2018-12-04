@@ -1,63 +1,65 @@
 
+public class Runner {
 
-public class Runner implements Runnable {
-    private static Integer value = 0;
-    private final int MAX_VALUE = 1000;
-    private static boolean flag = true;
+    private static final int MAX_VALUE = 1000;
+    private static final Object MONITOR = new Object();
 
-    public void run() {
+    private static int value = 0;
+    private static volatile boolean flag = true;
 
-        Thread counter = new Thread(() -> {
-         synchronized (this){
-             try{
-                 while(Runner.value < MAX_VALUE){
-                     count();
-                     Runner.flag = true;
-                 }
-             }catch(InterruptedException e){
-                 e.printStackTrace();
-             }
+    public static void count(){
 
-         }
-     } );
-
-        Thread printer = new Thread(() -> {
-            synchronized (this){
-                try{
-                    while(Runner.value < MAX_VALUE){
-                        print();
-                        Runner.flag = false;
+        Thread producer = new Thread(() -> {
+            synchronized (MONITOR) {
+                try {
+                    while (value < MAX_VALUE) {
+                        increment();
                     }
-                }catch(InterruptedException e){
+                } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
-
             }
-        } );
+        });
+
+        Thread consumer = new Thread(() -> {
+            synchronized (MONITOR) {
+                try {
+                    while (value < MAX_VALUE) {
+                        print();
+                    }
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
 
 
-        counter.start();
-        printer.start();
+        producer.start();
+        consumer.start();
 
+       //producer.join();
+       //consumer.join();
     }
 
-    private void count() throws InterruptedException {
-        while (Runner.flag){
-            wait();
+    private static void increment() throws InterruptedException {
+        while (flag) {
+            MONITOR.wait();
         }
 
-        Runner.value++;
-        notify();
+        value++;
+        flag = true;
+
+        MONITOR.notify();
     }
 
-    private void print() throws InterruptedException {
-        while (!Runner.flag){
-            wait();
+    private static void print() throws InterruptedException {
+        while (!flag) {
+            MONITOR.wait();
         }
 
-        System.out.print(Runner.value + " ");
-        notify();
+        System.out.print(value + " ");
+        flag = false;
+
+        MONITOR.notify();
     }
-
-
 }

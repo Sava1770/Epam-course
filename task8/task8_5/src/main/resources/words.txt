@@ -1,0 +1,3 @@
+ in file Новый текстовый документ (2).txt found 22 started with specified letter;
+ in file Новый текстовый документ (3).txt found 10 started with specified letter;
+ in file Новый текстовый документ.txt found 2 started with specified letter;
