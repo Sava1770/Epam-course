@@ -1,4 +1,4 @@
-package book;
+package book.model.entity;
 
 public class Book {
 
@@ -8,10 +8,6 @@ public class Book {
     private int year;
     private int numberOfPages;
     private int price;
-
-    public Book(){
-
-    }
 
     public Book(String name,String author,String publishing,int year,int numberOfPages,int price){
         this.name = name;

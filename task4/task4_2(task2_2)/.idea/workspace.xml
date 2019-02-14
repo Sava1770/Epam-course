@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ea07b51-94d3-4c54-82ec-c693c4c33fdd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../first_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../first_project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_1/src/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_1/src/book/model/entity/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_1/src/book/BookCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_1/src/book/view/Comparators/BookComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_1/src/book/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_1/src/book/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_1/src/book/BookInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_1/src/book/view/BookInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_1/src/book/BookModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_1/src/book/model/BookModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_1/src/book/BookView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_1/src/book/view/BookView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_1/src/book/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_1/src/book/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/draw/entity/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/draw/entity/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/draw/entity/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/draw/entity/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/draw/entity/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/draw/entity/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/draw/entity/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/draw/entity/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task6/task6_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task6/task6_1/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -91,12 +95,12 @@
     <session id="-458959172">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="5" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="3" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -107,7 +111,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="22" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -125,11 +129,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/draw/entity/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/draw/model/ShapeRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/draw/model/ShapeModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -203,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-185" />
     <option name="y" value="5" />
     <option name="width" value="980" />
@@ -307,7 +329,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542826586914" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../task6/task6_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -377,9 +399,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17181209" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1738255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -437,9 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -447,9 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="21" selection-start-line="20" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -474,20 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/draw/model/ShapeRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/draw/model/ShapeModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -523,6 +525,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/draw/model/ShapeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/draw/model/ShapeModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>

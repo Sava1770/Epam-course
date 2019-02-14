@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fde5428c-53c1-4d8f-ab87-83f108bc5ae0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task7/task7_6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task7/task7_6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task8/task8_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task8/task8_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task8/task8_2/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task8/task8_2/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task8/task8_2/src/main/java/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task8/task8_2/src/main/java/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task8/task8_2/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task8/task8_2/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task8/task8_2/target/classes/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task8/task8_2/target/classes/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task8/task8_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task8/task8_3/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,11 +25,12 @@
     <session id="-927355531">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -74,7 +68,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/book/model/BookModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="527">
               <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -83,7 +77,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/book/view/BookInput.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -95,7 +89,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/book/model/BookRepositoryFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="340">
               <caret line="35" column="35" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -106,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="55" column="21" selection-start-line="51" selection-start-column="8" selection-end-line="55" selection-end-column="21" />
+            <state relative-caret-position="884">
+              <caret line="57" column="19" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="57" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -196,7 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,47 +208,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="task6_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task6_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task6_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task6_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task6_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task6_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task6_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task6_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543168150445" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544113712623" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../task9/task9_1" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -328,8 +291,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13355705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13557047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -523,7 +487,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/book/model/BookModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="527">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -533,20 +497,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/book/model/BookRepositoryFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="340">
           <caret line="35" column="35" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1775#1776#0" expanded="true" />
             <element signature="e#1807#1808#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="21" selection-start-line="51" selection-start-column="8" selection-end-line="55" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -568,6 +525,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="57" column="19" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="57" selection-end-column="19" />
         </state>
       </provider>
     </entry>

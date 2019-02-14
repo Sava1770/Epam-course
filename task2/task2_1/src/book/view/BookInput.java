@@ -1,8 +1,11 @@
-package book;
+package book.view;
+
+import book.view.BookView;
 
 import java.util.Scanner;
 
-import static book.BookView.*;
+import static book.view.BookView.*;
+import static book.view.Constants.Constants.WRONG_INPUT_NUMBER;
 
 public class BookInput {
 
@@ -23,12 +26,6 @@ public class BookInput {
 
     public static String inputStringValue(BookView view,String selectAction){
         view.printMessage(selectAction);
-
-//        while(!scan.hasNextLine()){
-//            view.printMessage(WRONG_INPUT_NUMBER + selectAction);
-//
-//            scan.next();
-//        }
 
         return sc.nextLine();
     }

@@ -1,8 +1,10 @@
-package book;
+package book.view.Comparators;
+
+import book.model.entity.Book;
 
 import java.util.Comparator;
 
-public class BookCompare implements Comparator<Book> {
+public class PublishingComparator implements Comparator<Book> {
 
     @Override
     public int compare(Book o1, Book o2) {
