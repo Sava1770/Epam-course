@@ -5,14 +5,12 @@ import task2.entity.Shop;
 public class ShopView {
 
 
-    public void printShopDepartments(Shop shop, String shopName){
-        System.out.println("Your shop name is " + shopName + "\n");
+    public void printShopDepartments(Shop shop){
+        System.out.println(shop);
 
         for(int i = 0; i < shop.getDepartments().size(); i++){  //гетерами вывести нужные элементы
 
-            System.out.println("Department name: " + shop.getDepartments().get(i).getDepartmentName()+
-                               " Department id: " + shop.getDepartments().get(i).getId()+
-                               " Place " + shop.getDepartments().get(i).getPlace());
+            System.out.println(shop.getDepartments().get(i));
         }
     }
 

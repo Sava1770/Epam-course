@@ -1,5 +1,4 @@
 import java.io.File;
-import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
 public class FilesSearch implements Runnable {
@@ -35,7 +34,6 @@ public class FilesSearch implements Runnable {
     public void run(){
         try{
             runDir(startDir);
-
         }catch (InterruptedException e){
             e.printStackTrace();
         }

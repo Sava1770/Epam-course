@@ -3,15 +3,34 @@
   <component name="ChangeListManager">
     <list default="true" id="cb949139-b3ce-4565-ba71-824d15e812ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/model/entity/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book/BookCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/view/Comparators/PublishingComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/controller/BookController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book/BookInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/view/BookInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book/BookModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/model/BookModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book/BookView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/view/BookView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task6/task6_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task6/task6_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_2/src/draw/AreaCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_2/src/draw/model/Comparators/AreaCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_2/src/draw/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_2/src/draw/entity/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_2/src/draw/ColorCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_2/src/draw/model/Comparators/ColorCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_2/src/draw/Drawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_2/src/draw/entity/Drawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_2/src/draw/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_2/src/draw/entity/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_2/src/draw/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_2/src/draw/entity/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_2/src/draw/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_2/src/draw/entity/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_2/src/draw/controller/ShapeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_2/src/draw/controller/ShapeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_2/src/draw/model/ShapeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_2/src/draw/model/ShapeModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2_2/src/draw/view/ShapeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2_2/src/draw/view/ShapeView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/controller/ToysController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/controller/ToysController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/model/ToysModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/model/ToysModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/view/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/view/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/controller/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/controller/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop$Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop$Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/ShopView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/ShopView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/controller/ShopController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/controller/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/entity/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/entity/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/ShopView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/ShopView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_3/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,26 +41,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/book/model/BookModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-305">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="442">
+              <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#1762#1763#0" expanded="true" />
-                <element signature="e#1806#1807#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/book/controller/BookController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
+            <state relative-caret-position="374">
               <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -62,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/book/view/BookInput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
+            <state relative-caret-position="374">
               <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -75,7 +90,20 @@
         <entry file="file://$PROJECT_DIR$/src/book/model/BookRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/book/view/BookView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,16 +140,15 @@
         <option value="$PROJECT_DIR$/src/book/view/Comparators/PublishingComparator.java" />
         <option value="$PROJECT_DIR$/src/book/view/Comparators/Author.java" />
         <option value="$PROJECT_DIR$/src/book/view/Comparators/AuthorComparator.java" />
-        <option value="$PROJECT_DIR$/src/book/model/BookModel.java" />
         <option value="$PROJECT_DIR$/src/book/controller/BookController.java" />
+        <option value="$PROJECT_DIR$/src/book/model/BookModel.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-185" />
-    <option name="y" value="5" />
-    <option name="width" value="980" />
-    <option name="height" value="1085" />
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -129,8 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,14 +193,6 @@
               <item name="task2_1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task2_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task2_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -190,11 +207,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550146786793" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../task9" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550146815313" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task2_2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -235,31 +254,37 @@
       <option name="presentableId" value="Default" />
       <updated>1541164457889</updated>
     </task>
+    <task id="LOCAL-00001" summary="remake task 2.1">
+      <created>1550146813949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550146813949</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1852349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18791947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32918397" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32841823" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3230563" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -268,6 +293,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1852349" />
@@ -297,6 +323,10 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remake task 2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="remake task 2.1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Byte.java">
@@ -337,27 +367,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/book/view/BookView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/book/view/Constants/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/book/view/BookInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -372,20 +385,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/book/model/BookRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/book/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/book/view/Comparators/AuthorComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -396,26 +395,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/book/model/BookModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-305">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="442">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#1762#1763#0" expanded="true" />
-            <element signature="e#1806#1807#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/book/controller/BookController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
+        <state relative-caret-position="374">
           <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/book/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/book/view/BookInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/book/model/BookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/book/view/BookView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
           </folding>
         </state>
       </provider>

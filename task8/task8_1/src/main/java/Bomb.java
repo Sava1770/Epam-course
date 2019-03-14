@@ -12,6 +12,7 @@ public class Bomb implements Runnable {
                 e.printStackTrace();
             }
          });
+
     }
 
     private void bombTimer( Consumer<String> s) {

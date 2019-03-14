@@ -26,8 +26,9 @@ public class ShopController {
         int removePosition;
         int num = 1;
 
-        String shopName = Input.inputLine(view, OUTPUT);
+
         Shop shop = new Shop();
+        shop.setShopName(Input.inputLine(view, OUTPUT));
         model.setShopInRepository(shop);
 
         while(num >= 1 && num < 5) {
@@ -40,11 +41,11 @@ public class ShopController {
                     break;
                 case 2:
                     model.departmentSortById();
-                    view.printShopDepartments(model.getShop(), shopName);
+                    view.printShopDepartments(model.getShop());
                     break;
                 case 3:
                     model.departmentSortByProducts();
-                    view.printShopDepartments(model.getShop(), shopName);
+                    view.printShopDepartments(model.getShop());
                     break;
                 case 4:
                     removePosition = Input.inputValue(view, REMOVE_POSITION);

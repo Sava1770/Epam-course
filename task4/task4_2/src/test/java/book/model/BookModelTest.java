@@ -29,42 +29,43 @@ public class BookModelTest {
     @Before
     public void setUp() {
         model = new BookModel(repository);
+        when(repository.getBooks())
+                .thenReturn(new Book[]{
+                        new Book("1984 ", "Orwell", "fourth", 1903, 150, 100),
+                        new Book("A Doll's House", "Ibsen", "third", 1828, 180, 90)});
     }
 
     /**
      * test for all 3 method in this test method
      */
     @Test
-    public void bookList() {
-
-        when(repository.getBooks())
-                .thenReturn(new Book[]{
-                        new Book("1984 ", "Orwell", "fourth", 1903, 150, 100),
-                        new Book("A Doll's House", "Ibsen", "third", 1828, 180, 90)});
-
+    public void bookListByAuthor() {
         Book[] actual = model.bookListByAuthor("Orwell");
 
         assertThat(actual).isNotNull().hasSize(1);              //check  bookListByAuthor()
         assertThat(actual[0])
                 .extracting( "author")
                 .contains("Orwell");
+    }
 
-        actual = model.bookListByYear(1902);                    //check  bookListByYear()
+    @Test
+    public void bookListByYear() {
+        Book[] actual = model.bookListByYear(1902);                    //check  bookListByYear()
 
         assertThat(actual).isNotNull().hasSize(1);
         assertThat(actual[0])
                 .extracting("year")
                 .contains(1903);
+    }
 
-        actual = model.bookListByPublishing("third");            //check  bookListByPublishing()
+    @Test
+    public void bookListByPublishing() {
+        Book[] actual = model.bookListByPublishing("third");            //check  bookListByPublishing()
 
         assertThat(actual).isNotNull().hasSize(1);
         assertThat(actual[0])
                 .extracting("publishing")
                 .contains("third");
     }
-
-
-
 
 }

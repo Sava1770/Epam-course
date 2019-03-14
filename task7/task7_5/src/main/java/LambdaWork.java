@@ -9,15 +9,13 @@ public class LambdaWork {
         Integer [] array = new Integer[10];
         for (int i = 0; i < array.length; i++) {
             array[i] = (int)(Math.random() * 10);
-        }
-        //show this array before sort
-        for (int i = 0; i < array.length; i++) {
             System.out.print(array[i]+ " ");
         }
+
         System.out.println();
-        //sort
+        //changes
         array = arrayBiMultiply(array, x -> x*2);
-        //show after sort
+        //show after changes
         for (int i = 0; i < array.length; i++) {
             System.out.print(array[i]+ " ");
         }
@@ -44,7 +42,7 @@ public class LambdaWork {
             System.out.println(strings.get(i));
         }
 
-        strings = stringToUpper(strings, (String x) -> x.toUpperCase() );
+        strings = stringToUpper(strings, String::toUpperCase );
 
         System.out.println("after upper case:");
         for (int i = 0; i < strings.size(); i++) {
@@ -74,7 +72,8 @@ public class LambdaWork {
     private List<String> stringToUpper(List<String> strings, LambdaString lambda){
 
         for(int i = 0; i < strings.size(); i++){
-            strings.set(i, lambda.stringConvertation(strings.get(i)));
+            if(lambda.isExist(strings.get(i)))
+                strings.set(i, lambda.stringConvertation(strings.get(i)));
         }
 
         return strings;

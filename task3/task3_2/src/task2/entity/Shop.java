@@ -29,6 +29,11 @@ public class Shop {
         this.departments = departments;
     }
 
+    @Override
+    public String toString(){
+        return "Your shop name is " + shopName + "\n";
+    }
+
     public static class Department{
 
         private String departmentName;
@@ -53,6 +58,11 @@ public class Shop {
 
         public String getDepartmentName() {
             return departmentName;
+        }
+
+        @Override
+        public String toString(){
+         return  "Department name: " + departmentName + " Department id: " + Id + " Place " + place;
         }
     }
 }

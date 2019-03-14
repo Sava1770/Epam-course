@@ -11,11 +11,9 @@ public class LambdaWork {
         Integer [] array = new Integer[10];
         for (int i = 0; i < array.length; i++) {
             array[i] = (int)(Math.random() * 10);
-        }
-        //show this array before sort
-        for (int i = 0; i < array.length; i++) {
             System.out.print(array[i]+ " ");
         }
+
         System.out.println();
         //sort
         array = arrayBiMultiply(array, x -> x*2);

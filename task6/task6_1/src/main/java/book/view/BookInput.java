@@ -2,7 +2,6 @@ package book.view;
 
 import java.util.Scanner;
 
-import static book.view.BookView.*;
 import static book.view.Constants.WRONG_INPUT_NUMBER;
 
 /**

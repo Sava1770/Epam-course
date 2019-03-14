@@ -2,12 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f7ba31d-80a1-4f12-906d-ab42750f485d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../first_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../first_project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2(task2_2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_2(task2_2)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2(task2_2)/src/main/java/draw/entity/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_2(task2_2)/src/main/java/draw/entity/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2(task2_2)/src/main/java/draw/entity/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_2(task2_2)/src/main/java/draw/entity/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2(task2_2)/src/main/java/draw/entity/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_2(task2_2)/src/main/java/draw/entity/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2(task2_2)/src/main/java/draw/entity/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_2(task2_2)/src/main/java/draw/entity/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/AreaCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/model/Comparators/AreaCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/ColorCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/model/Comparators/ColorCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Drawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Drawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/controller/ShapeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/controller/ShapeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/model/ShapeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/model/ShapeModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/view/ShapeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/view/ShapeView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/controller/ToysController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/controller/ToysController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/model/ToysModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/model/ToysModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/view/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/view/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/controller/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/controller/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop$Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop$Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/ShopView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/ShopView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/controller/ShopController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/controller/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/entity/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/entity/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/ShopView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/ShopView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_3/task3_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_3/task3_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/book/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/book/BookCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/book/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/book/BookInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/book/BookModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/book/BookView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/book/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/draw/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/draw/controller/ShapeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/draw/entity/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/draw/entity/Drawable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/draw/entity/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/draw/entity/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/draw/entity/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/draw/model/ShapeModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/draw/model/ShapeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/draw/model/comparators/AreaCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/draw/model/comparators/ColorCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/draw/view/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4_1/task2/draw/view/ShapeView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/book/model/BookModelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/book/model/BookModelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_1/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,51 +64,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1964339652">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="13" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="6" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="8" />
-          <entry key="java" value="24" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="8" />
-          <entry key="JAVA" value="24" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1515" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1515" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/book/model/BookModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
+            <state relative-caret-position="290">
               <caret line="65" column="42" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -69,56 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/book/controller/BookController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/book/entity/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/book/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/book/view/BookInput.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="40" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="52" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="53" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/book/model/BookModelTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+            <state relative-caret-position="793">
+              <caret line="66" column="41" lean-forward="true" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,7 +106,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/TestBookModel.java" />
-        <option value="$PROJECT_DIR$/src/test/java/book/model/BookModelTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/book/model/BookModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/book/controller/BookController.java" />
         <option value="$PROJECT_DIR$/src/main/java/book/model/BookRepository.java" />
@@ -150,12 +113,13 @@
         <option value="$PROJECT_DIR$/src/main/java/book/model/comparators/BookCompare.java" />
         <option value="$PROJECT_DIR$/src/main/java/book/view/BookInput.java" />
         <option value="$PROJECT_DIR$/src/main/java/book/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/book/model/BookModelTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -206,54 +170,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task4_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task4_2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task4_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task4_2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task4_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task4_2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task4_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task4_2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task4_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task4_2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="task4_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="task4_2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -263,10 +179,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541614968515" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551354977847" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task4_2(task2_2)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -302,6 +218,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="book.model" />
       <option name="MAIN_CLASS_NAME" value="book.model.BookModelTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -383,18 +300,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BookModelTest - 2018.11.05 at 15h 20m 08s.xml">
-      <configuration name="BookModelTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BookModelTest - 2018.11.05 at 15h 20m 30s.xml">
-      <configuration name="BookModelTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BookModelTest_bookListByPublishing - 2018.11.05 at 15h 20m 46s.xml">
-      <configuration name="BookModelTest.bookListByPublishing" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BookModelTest - 2018.11.05 at 15h 24m 29s.xml">
-      <configuration name="BookModelTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BookModelTest - 2018.11.05 at 21h 04m 59s.xml">
       <configuration name="BookModelTest" configurationId="JUnit" />
     </history-entry>
@@ -413,12 +318,23 @@
     <history-entry file="BookModelTest - 2018.11.05 at 21h 27m 18s.xml">
       <configuration name="BookModelTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BookModelTest - 2019.02.28 at 13h 51m 07s.xml">
+      <configuration name="BookModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookModelTest - 2019.02.28 at 13h 55m 01s.xml">
+      <configuration name="BookModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookModelTest - 2019.02.28 at 13h 55m 57s.xml">
+      <configuration name="BookModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookModelTest - 2019.02.28 at 13h 56m 22s.xml">
+      <configuration name="BookModelTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="783" height="872" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38035962" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19060403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -427,7 +343,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32841823" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -436,6 +352,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32885906" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -445,9 +362,6 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/TestBookModel.java" />
@@ -542,27 +456,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/book/model/BookRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.21.0/mockito-core-2.21.0.jar!/org/mockito/Mockito.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
           <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/book/model/BookModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="65" column="42" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -594,20 +491,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/book/model/BookModelTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+        <state relative-caret-position="205">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/model/BookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/book/model/BookModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="65" column="42" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/book/model/BookModelTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="52" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="53" selection-end-column="19" />
+        <state relative-caret-position="793">
+          <caret line="66" column="41" lean-forward="true" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

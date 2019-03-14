@@ -1,13 +1,13 @@
 @FunctionalInterface
 public interface LambdaString {
 
-    public String stringConvertation(String x);
+    String stringConvertation(String x);
 
     default boolean isExist(String s){
-        if(s == null){
+        if(s == null || s.equals(""))
             return false;
-        }else{
+        else
             return true;
-        }
+
     }
 }

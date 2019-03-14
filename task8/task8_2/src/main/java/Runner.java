@@ -1,10 +1,10 @@
 
 public class Runner {
 
-    private static final int MAX_VALUE = 1000;
+    private static final Integer MAX_VALUE = 1000;
     private static final Object MONITOR = new Object();
 
-    private static int value = 0;
+    private static Integer value = 0;
     private static volatile boolean flag = true;
 
     public static void count(){
@@ -37,8 +37,6 @@ public class Runner {
         producer.start();
         consumer.start();
 
-       //producer.join();
-       //consumer.join();
     }
 
     private static void increment() throws InterruptedException {

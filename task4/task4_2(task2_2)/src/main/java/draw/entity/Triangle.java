@@ -3,7 +3,7 @@ package draw.entity;
 public class Triangle extends Shape {
         private double a,b,c;
 
-
+        public Triangle(){}
 
         public Triangle(String shapeColor, double a, double b, double c) {
                 super(shapeColor);

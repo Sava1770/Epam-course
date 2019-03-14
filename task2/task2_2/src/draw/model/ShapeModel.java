@@ -1,9 +1,9 @@
 package draw.model;
 
-import draw.Circle;
-import draw.Rectangle;
-import draw.Shape;
-import draw.Triangle;
+import draw.entity.Circle;
+import draw.entity.Rectangle;
+import draw.entity.Shape;
+import draw.entity.Triangle;
 
 public class ShapeModel {
 

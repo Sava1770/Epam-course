@@ -40,6 +40,7 @@ public class Person {
 
     @Override
     public String toString(){
+        System.out.println( "name: " + name + " age: " + age + " sex: " + gender);
         return "name: " + name + " age: " + age + " sex: " + gender;
     }
 }

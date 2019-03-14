@@ -32,7 +32,7 @@ public class Book {
         this.price = price;
     }
 
-    public Book(){}
+  //  public Book(){}
 
     /**
      * getters and setters

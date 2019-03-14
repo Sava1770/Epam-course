@@ -20,11 +20,11 @@ public class Runner {
 
         personList.stream()
                 .filter(person -> person.getAge() >= 20 && person.getGender().equals("male"))
-                .forEach(person ->  System.out.println(person));
+                .forEach(person -> person.toString());
 
         Double averageAge = personList.stream()
                 .filter(person -> person.getGender().equals("female"))
-                .mapToDouble(Person::getAge)
+                .mapToDouble(person -> person.getAge())
                 .average()
                 .getAsDouble();
 

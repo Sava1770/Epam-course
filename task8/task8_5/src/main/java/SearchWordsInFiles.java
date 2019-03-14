@@ -8,8 +8,7 @@ import java.util.regex.Pattern;
 
 public class SearchWordsInFiles implements Runnable {
 
-    private int repeatsCount;
-    private String letter = "a";
+    private String letter = "w";
     private BlockingQueue<File> queue;
 
     public SearchWordsInFiles(BlockingQueue<File> queue){
@@ -38,8 +37,6 @@ public class SearchWordsInFiles implements Runnable {
             e.printStackTrace();
         }
 
-
-
         return i;
     }
 
@@ -47,7 +44,7 @@ public class SearchWordsInFiles implements Runnable {
         try {
             System.out.println(repeatsCount);
             FileWriter writer = new FileWriter(new File("C:/Users/romao/IdeaProjects/Epam/task8/task8_5/src/main/resources/words.txt"), true);
-            writer.write( " in file " + fileName + " found " + repeatsCount + " words started with specified letter;\n");
+            writer.write( " in file " + fileName + " found " + repeatsCount + " words started with specified letter (" + letter + ")\n");
             writer.close();
         }catch (IOException e){
             e.printStackTrace();
@@ -58,7 +55,6 @@ public class SearchWordsInFiles implements Runnable {
     public void run(){
         try{
             while (true){
-
                 File currentFile = queue.take();
                 if(currentFile == FilesSearch.EXIT){
                     //queue.put(currentFile);
@@ -67,8 +63,6 @@ public class SearchWordsInFiles implements Runnable {
                     writeInFile(currentFile.getName(), searchWords(currentFile));
                 }
             }
-
-
         }catch (InterruptedException e){
             e.printStackTrace();
         }

@@ -1,8 +1,11 @@
 package draw.controller;
 
 
-import draw.*;
-import draw.Shape;
+import draw.entity.Circle;
+import draw.entity.Rectangle;
+import draw.entity.Triangle;
+import draw.model.Comparators.AreaCompare;
+import draw.model.Comparators.ColorCompare;
 import draw.model.ShapeModel;
 import draw.view.*;
 

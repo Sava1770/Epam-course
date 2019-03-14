@@ -1,7 +1,9 @@
 package task1.view;
 
 import java.util.Scanner;
-import static Task4_1.task2.draw.view.ShapeView.*;
+
+import static task1.view.Constants.WRONG_INPUT_NUMBER;
+
 
 public class Input {
 

@@ -5,15 +5,16 @@ import task1.entity.Toys;
 import task1.model.comparators.*;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 
 public class ToysModel {
 
-    private ChildRoom<Toys> room = new ChildRoom<>();
-    private ArrayList<Toys> list = room.getList();
-    private ColorComparator colorCompare = new ColorComparator();
-    private IdComparator idCompare = new IdComparator();
-    private WeightComparator weightCompare = new WeightComparator();
-    private CostComparator costCompare = new CostComparator();
+    private ArrayList<Toys> list;
+
+
+    public ToysModel(ChildRoom <Toys> room){
+        list = room.getList();
+    }
 
     public ArrayList<Toys> getList() {
         return list;
@@ -27,26 +28,9 @@ public class ToysModel {
         return sum;
     }
 
-    public ArrayList<Toys> colorComp(){
-         list.sort(colorCompare);
-         return list;
-    }
-
-    public ArrayList<Toys> idComp(){
-        list.sort(idCompare);
+    public ArrayList<Toys> comparison(Comparator<Toys> comp){
+        list.sort(comp);
         return list;
     }
-
-    public ArrayList<Toys> weightComp(){
-        list.sort(weightCompare);
-        return list;
-    }
-
-    public ArrayList<Toys> costComp(){
-        list.sort(costCompare);
-        return list;
-    }
-
-
 
 }

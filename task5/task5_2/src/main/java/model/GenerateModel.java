@@ -26,7 +26,7 @@ public class GenerateModel {
         List<String> list = repository.getList();
 
         for(int i = 0; i < size; i++){
-            list.add(new String("List :" + temp++) );
+            list.add("List :" + temp++);
         }
 
         return list;
@@ -39,7 +39,7 @@ public class GenerateModel {
 
 
         for(int i = 0; i < size; i++){
-            set.add(new String("Set :" + temp++) );
+            set.add("Set :" + temp++ );
         }
 
         return set;

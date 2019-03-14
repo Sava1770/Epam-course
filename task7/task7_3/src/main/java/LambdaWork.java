@@ -11,10 +11,9 @@ public class LambdaWork {
 
         for (int i = 0; i < array.length; i++) {
             array[i] = (int)(Math.random() * 10);
-        }
-        for (int i = 0; i < array.length; i++) {
             System.out.print(array[i]+ " ");
         }
+
         System.out.println();
 
         Arrays.sort(array, (a,b) -> b - a);
@@ -35,7 +34,7 @@ public class LambdaWork {
             System.out.println(strings.get(i));
         }
 
-        Collections.sort(strings, (String s1,String s2) -> {
+        Collections.sort(strings, (s1,s2) -> {
             if (s1.compareTo(s2) > 0) return -1;
             else if (s1.compareTo(s2) < 0) return 1;
             else return 0;});

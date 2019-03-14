@@ -1,6 +1,6 @@
 package draw.view;
 
-import draw.Shape;
+import draw.entity.Shape;
 import draw.model.ShapeModel;
 
 public class ShapeView {

@@ -2,14 +2,114 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dfd605a-9835-4801-81b0-64adef75e29d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/AreaCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/model/Comparators/AreaCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/ColorCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/model/Comparators/ColorCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Drawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Drawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/controller/ShapeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/controller/ShapeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/model/ShapeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/model/ShapeModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/view/ShapeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/view/ShapeView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/controller/ToysController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/controller/ToysController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/model/ToysModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/model/ToysModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/view/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/view/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/controller/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/controller/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop$Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop$Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/ShopView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/ShopView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/controller/ShopController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/controller/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/entity/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/entity/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/ShopView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/ShopView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_3/task3_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_3/task3_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/book/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/book/BookCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/book/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/book/BookInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/book/BookModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/book/BookView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/book/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/draw/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/draw/controller/ShapeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/draw/entity/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/draw/entity/Drawable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/draw/entity/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/draw/entity/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/draw/entity/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/draw/model/ShapeModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/draw/model/ShapeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/draw/model/comparators/AreaCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/draw/model/comparators/ColorCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/draw/view/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_1/task2/draw/view/ShapeView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/src/main/java/draw/entity/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/classes/draw/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/classes/draw/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/classes/draw/controller/ShapeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/classes/draw/controller/ShapeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/classes/draw/entity/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/classes/draw/entity/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/classes/draw/entity/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/classes/draw/entity/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/classes/draw/entity/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/classes/draw/entity/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/classes/draw/entity/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/classes/draw/entity/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/test-classes/TestShapeModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2(task2_2)/target/test-classes/TestShapeModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2/src/test/java/book/model/BookModelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2/src/test/java/book/model/BookModelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/controller/BookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/entity/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/entity/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/model/BookModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/model/BookModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/model/BookRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/model/BookRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/model/comparators/BookCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/model/comparators/BookCompare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/view/BookInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2/target/classes/book/view/BookInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task4_2/target/test-classes/book/model/BookModelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task4/task4_2/target/test-classes/book/model/BookModelTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task4/task7_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task5/task5_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task5/task5_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task5/task5_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task5/task5_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task5/task5_2/src/main/java/model/GenerateModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task5/task5_2/src/main/java/model/GenerateModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task5/task5_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task5/task5_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task5/task5_4/task5_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task6/task6_1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task6/task6_1/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../task6/task6_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task6/task6_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task6/task6_1/src/main/java/book/entity/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task6/task6_1/src/main/java/book/entity/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task6/task6_1/src/main/java/book/view/BookInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task6/task6_1/src/main/java/book/view/BookInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task6/task6_1/target/classes/book/entity/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task6/task6_1/target/classes/book/entity/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_1/target/classes/ReflectionUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_1/target/classes/ReflectionUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_3/src/main/java/LambdaWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_3/src/main/java/LambdaWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_3/task7_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_4/src/main/java/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_4/src/main/java/Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_4/src/main/java/LambdaWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_4/src/main/java/LambdaWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_4/task7_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_5/src/main/java/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_5/src/main/java/Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_5/src/main/java/LambdaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_5/src/main/java/LambdaString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_5/src/main/java/LambdaWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_5/src/main/java/LambdaWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_5/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_5/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_5/target/classes/LambdaString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_5/target/classes/LambdaString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_5/target/classes/LambdaWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_5/target/classes/LambdaWork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_5/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../task7_5/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_5/task7_5.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task8/task8_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task8/task8_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task8/task8_2/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task8/task8_2/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task8/task8_2/src/main/java/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task8/task8_2/src/main/java/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task8/task8_2/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task8/task8_2/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task8/task8_2/target/classes/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task8/task8_2/target/classes/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../task8/task8_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task8/task8_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7_6.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,39 +118,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="144269224">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1058" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1058" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -66,10 +133,35 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="493">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="511">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
+                <element signature="e#653#654#0" expanded="true" />
+                <element signature="e#689#690#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,12 +188,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Person.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="460" />
     <option name="y" value="-10" />
     <option name="width" value="980" />
@@ -113,8 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,14 +234,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543405727446" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551973534467" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../task8/task8_1" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -188,10 +281,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -200,7 +292,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32841823" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -208,7 +300,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -217,10 +309,8 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/function/BinaryOperator.java">
@@ -237,17 +327,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="579" column="22" selection-start-line="579" selection-start-column="22" selection-end-line="579" selection-end-column="22" />
+          <folding>
+            <element signature="e#26957#26958#0" expanded="true" />
+            <element signature="e#27022#27023#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/function/ToDoubleFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="225" column="36" selection-start-line="225" selection-start-column="36" selection-end-line="225" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="42" column="68" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
+        <state relative-caret-position="511">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="e#116#117#0" expanded="true" />
             <element signature="e#156#157#0" expanded="true" />
@@ -267,35 +393,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="1019" column="31" selection-start-line="1019" selection-start-column="31" selection-end-line="1019" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="992">
-          <caret line="579" column="22" selection-start-line="579" selection-start-column="22" selection-end-line="579" selection-end-column="22" />
-          <folding>
-            <element signature="e#26957#26958#0" expanded="true" />
-            <element signature="e#27022#27023#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

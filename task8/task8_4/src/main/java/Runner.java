@@ -8,29 +8,33 @@ public class Runner {
     private static final int MAX_NUM_COUNT = 20;
     private static int[]array = new int[(int)N];
 
+
     static class RecursiveSum extends RecursiveTask<Long> {
         int from, to;
 
         public RecursiveSum(int from, int to){
             this.from = from;
             this.to = to;
+
         }
 
         public Long compute(){
-            if( from - to <= MAX_NUM_COUNT){
+
+            if( to - from <= MAX_NUM_COUNT){
                 long localSum = 0;
                 //random this part of array
                 random(from, to);
                 //calculate sum of this part
-                for(int i = from; i < to - from; i++){
+                for(int i = from; i < from + (to - from); i++){
                      localSum += array[i];
                 }
 
+                System.out.println("Summ between" + from + " - " + to + " is " + localSum);
 
                 return localSum;
             }else{
-
-                int mid = (from-to/2);
+             //   System.out.println(i++);
+                int mid = (to+from)/2;
                 //create new thread for first half
                 RecursiveSum firstHalf = new RecursiveSum(from,mid-1);
                 firstHalf.fork();
@@ -43,7 +47,7 @@ public class Runner {
         }
 
         public void random(int from, int to){
-           for(int i = from; i < to - from; i++){
+           for(int i = from; i < from + (to - from); i++){
                 array[i] = (int)(Math.random()* 100);
            }
         }

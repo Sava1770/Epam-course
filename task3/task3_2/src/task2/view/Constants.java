@@ -11,6 +11,5 @@ public final class Constants {
     public static final String PRODUCT_INPUT = "Input product type for your department";
     public static final String PLACE_INPUT = "Input the place for your department";
     public static final String REMOVE_POSITION = "Input the id of element you want to delete";
-    public static final String RIGHT_RESULT = "Your result";
 
 }

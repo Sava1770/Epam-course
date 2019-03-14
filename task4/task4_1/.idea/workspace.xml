@@ -2,42 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1b31226-0df0-4441-ab33-96d88ae2e556" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../FirstProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/AreaCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/model/Comparators/AreaCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/ColorCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/model/Comparators/ColorCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Drawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Drawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/entity/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/controller/ShapeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/controller/ShapeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/model/ShapeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/model/ShapeModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task2/task2_2/src/draw/view/ShapeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task2/task2_2/src/draw/view/ShapeView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/controller/ToysController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/controller/ToysController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/model/ToysModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/model/ToysModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_1/src/task1/view/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_1/src/task1/view/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/controller/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/controller/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop$Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop$Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/entity/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/Input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/ShopView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/out/production/task3_2/task2/view/ShopView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/controller/ShopController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/controller/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/entity/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/entity/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/ShopView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_2/src/task2/view/ShopView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../task3/task3_3/task3_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task3/task3_3/task3_3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_2/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/.idea/task4_2(task2_2).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/.idea/task4_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/Task4_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_2/Task4_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/main/java/draw/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/main/java/draw/controller/ShapeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/main/java/draw/entity/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/main/java/draw/entity/Drawable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/main/java/draw/entity/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/main/java/draw/entity/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/main/java/draw/entity/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/main/java/draw/model/ShapeModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/main/java/draw/model/ShapeRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/main/java/draw/model/comparators/AreaCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/main/java/draw/model/comparators/ColorCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/main/java/draw/view/Input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/main/java/draw/view/ShapeView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/src/test/java/TestShapeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task4_2/src/test/java/TestBookModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/classes/draw/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/classes/draw/controller/ShapeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/classes/draw/entity/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/classes/draw/entity/Drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/classes/draw/entity/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/classes/draw/entity/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/classes/draw/entity/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/classes/draw/model/ShapeModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/classes/draw/model/ShapeRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/classes/draw/model/comparators/AreaCompare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/classes/draw/model/comparators/ColorCompare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/classes/draw/view/Input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/classes/draw/view/ShapeView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task4_2/target/test-classes/TestShapeModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/book/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/book/BookCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/book/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/book/BookInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/book/BookModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/book/BookView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/book/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/draw/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/draw/controller/ShapeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/draw/entity/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/draw/entity/Drawable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/draw/entity/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/draw/entity/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/draw/entity/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/draw/model/ShapeModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/draw/model/ShapeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/draw/model/comparators/AreaCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/draw/model/comparators/ColorCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/draw/view/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/draw/view/ShapeView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7_1/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,67 +64,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Task4_1$TestTemperatureConverter_testConvertFtoK.ic" NAME="TestTemperatureConverter.testConvertFtoK Coverage Results" MODIFIED="1540399657929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Task4_1$TestTemperatureConverter.ic" NAME="TestTemperatureConverter Coverage Results" MODIFIED="1540762795615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Task4_1$TestTemperatureConverter_testConvertFtoK.ic" NAME="TestTemperatureConverter.testConvertFtoK Coverage Results" MODIFIED="1540399657929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Task4_1$TestTemperatureConverter_testConvertCtoK.ic" NAME="TestTemperatureConverter.testConvertCtoK Coverage Results" MODIFIED="1540395415140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="209" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1406056229">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="9" />
-          <entry key="java" value="987" />
-          <entry key="xml" value="35" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="987" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="XML" value="35" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-    <session id="-2134114140">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="340">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -139,11 +108,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestTemperatureConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-161">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -169,10 +135,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="857" />
-    <option name="y" value="35" />
-    <option name="width" value="979" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
     <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -182,7 +147,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,14 +172,29 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="task4_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task4_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task4_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task4_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551354120302" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task4_2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -237,6 +216,7 @@
       <module name="Task4_1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestTemperatureConverter" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -300,9 +280,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestTemperatureConverter - 2018.10.24 at 19h 46m 39s.xml">
-      <configuration name="TestTemperatureConverter" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestTemperatureConverter_testConvertFtoK - 2018.10.24 at 19h 47m 36s.xml">
       <configuration name="TestTemperatureConverter.testConvertFtoK" configurationId="JUnit" />
     </history-entry>
@@ -330,11 +307,15 @@
     <history-entry file="TestTemperatureConverter - 2018.10.28 at 23h 40m 05s.xml">
       <configuration name="TestTemperatureConverter" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestTemperatureConverter - 2019.02.28 at 13h 42m 11s.xml">
+      <configuration name="TestTemperatureConverter" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="686" y="28" width="783" height="872" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25311205" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12684564" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -343,15 +324,16 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33242875" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33109918" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32841823" />
       <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -363,14 +345,11 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="340">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -397,11 +376,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestTemperatureConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-161">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
     </entry>
